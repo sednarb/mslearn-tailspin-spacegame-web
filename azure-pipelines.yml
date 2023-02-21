@@ -1,6 +1,6 @@
 trigger:
-  - main
-# - '*'
+  # - main
+- '*'
 
 pool:
   # name: default
